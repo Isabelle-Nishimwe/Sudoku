@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/sudoku.dir/src/display.c.o CMakeFiles/sudoku.dir/src/game.c.o CMakeFiles/sudoku.dir/src/grid.c.o CMakeFiles/sudoku.dir/src/main.c.o CMakeFiles/sudoku.dir/src/victory.c.o -o sudoku 
